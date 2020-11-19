@@ -3,11 +3,11 @@ import { StyleSheet } from 'react-native';
 
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
-import Viz2 from './Viz2';
+import Viz3 from './Viz3';
 
-export default function TabTwoScreen() {
+export default function TabThreeScreen() {
   return (
-    <Viz2 />
+    <Viz3 />
   );
 }
 
