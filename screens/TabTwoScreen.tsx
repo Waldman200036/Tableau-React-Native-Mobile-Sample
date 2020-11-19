@@ -1,8 +1,6 @@
 import * as React from 'react';
 import { StyleSheet } from 'react-native';
 
-import EditScreenInfo from '../components/EditScreenInfo';
-import { Text, View } from '../components/Themed';
 import Viz2 from './Viz2';
 
 export default function TabTwoScreen() {
